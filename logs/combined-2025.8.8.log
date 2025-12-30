@@ -1,0 +1,62 @@
+{"level":30,"time":1754694123829,"pid":11524,"hostname":"Durangos_PC","msg":"Validating config file and environment variables"}
+{"level":40,"time":1754694123830,"pid":11524,"hostname":"Durangos_PC","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1754694124707,"pid":11524,"hostname":"Durangos_PC","msg":"Loading commands..."}
+{"level":20,"time":1754694124717,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command amongus. Disabled!"}
+{"level":20,"time":1754694124718,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command editxp. Disabled!"}
+{"level":20,"time":1754694124719,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command embedsite. Disabled!"}
+{"level":20,"time":1754694124725,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command partner. Disabled!"}
+{"level":20,"time":1754694124727,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command reset-lb. Disabled!"}
+{"level":20,"time":1754694124729,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command to-do. Disabled!"}
+{"level":20,"time":1754694124730,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command cooldown. Disabled!"}
+{"level":20,"time":1754694124731,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command resetcd. Disabled!"}
+{"level":20,"time":1754694124732,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command shift. Disabled!"}
+{"level":20,"time":1754694124733,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command shiftmanagement. Disabled!"}
+{"level":20,"time":1754694124734,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command special. Disabled!"}
+{"level":20,"time":1754694124735,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command staffpoints. Disabled!"}
+{"level":20,"time":1754694125456,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command confess. Disabled!"}
+{"level":20,"time":1754694125456,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command confession. Disabled!"}
+{"level":20,"time":1754694125458,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command blackjack. Disabled!"}
+{"level":20,"time":1754694125462,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command slots. Disabled!"}
+{"level":20,"time":1754694125463,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command steal. Disabled!"}
+{"level":20,"time":1754694125463,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command work. Disabled!"}
+{"level":20,"time":1754694126109,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command meme. Disabled!"}
+{"level":20,"time":1754694130275,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1754694130276,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1754694130277,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1754694130278,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1754694130370,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1754694130370,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1754694130372,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1754694130373,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1754694130374,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1754694130380,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command cateringinfo. Disabled!"}
+{"level":20,"time":1754694130380,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command order. Disabled!"}
+{"level":20,"time":1754694130381,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command oc. Disabled!"}
+{"level":20,"time":1754694130382,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command task. Disabled!"}
+{"level":20,"time":1754694130383,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command tasksetup. Disabled!"}
+{"level":20,"time":1754694130384,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command give. Disabled!"}
+{"level":20,"time":1754694130384,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command reload. Disabled!"}
+{"level":20,"time":1754694130424,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command donator. Disabled!"}
+{"level":20,"time":1754694130425,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command guidelines. Disabled!"}
+{"level":20,"time":1754694130428,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command protocols. Disabled!"}
+{"level":20,"time":1754694130429,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command rules. Disabled!"}
+{"level":20,"time":1754694130429,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command serverinfo. Disabled!"}
+{"level":20,"time":1754694130430,"pid":11524,"hostname":"Durangos_PC","msg":"Skipping command tags. Disabled!"}
+{"level":30,"time":1754694130432,"pid":11524,"hostname":"Durangos_PC","msg":"Loaded 57 commands"}
+{"level":30,"time":1754694130432,"pid":11524,"hostname":"Durangos_PC","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1754694130432,"pid":11524,"hostname":"Durangos_PC","msg":"Loading contexts..."}
+{"level":30,"time":1754694130433,"pid":11524,"hostname":"Durangos_PC","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1754694130433,"pid":11524,"hostname":"Durangos_PC","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1754694130433,"pid":11524,"hostname":"Durangos_PC","msg":"Loading events..."}
+{"level":30,"time":1754694130489,"pid":11524,"hostname":"Durangos_PC","msg":"Loaded 17 events. Success (17) Failed (0)"}
+{"level":30,"time":1754694130878,"pid":11524,"hostname":"Durangos_PC","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1754694137118,"pid":11524,"hostname":"Durangos_PC","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1754694139596,"pid":11524,"hostname":"Durangos_PC","msg":"Logged in as BEE Manager 🐝TEST#9627! (1268489856137433148)"}
+{"level":30,"time":1754694139596,"pid":11524,"hostname":"Durangos_PC","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1754694141435,"pid":11524,"hostname":"Durangos_PC","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1754694141785,"pid":11524,"hostname":"Durangos_PC","msg":"Successfully registered interactions"}
+{"level":50,"time":1754694143133,"pid":11524,"hostname":"Durangos_PC","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'channels')","stack":"TypeError: Cannot read properties of undefined (reading 'channels')\n    at module.exports (C:\\vscode\\BEE manager\\src\\events\\ready.js:57:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of undefined (reading 'channels')"}
+{"level":50,"time":1754694146836,"pid":11524,"hostname":"Durangos_PC","err":{"type":"ReferenceError","message":"sent is not defined","stack":"ReferenceError: sent is not defined\n    at module.exports (C:\\vscode\\BEE manager\\src\\events\\message\\messageCreate.js:410:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: sent is not defined"}
+{"level":50,"time":1754694148735,"pid":11524,"hostname":"Durangos_PC","err":{"type":"ReferenceError","message":"sent is not defined","stack":"ReferenceError: sent is not defined\n    at module.exports (C:\\vscode\\BEE manager\\src\\events\\message\\messageCreate.js:410:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: sent is not defined"}
+{"level":50,"time":1754694156448,"pid":11524,"hostname":"Durangos_PC","err":{"type":"ReferenceError","message":"sent is not defined","stack":"ReferenceError: sent is not defined\n    at module.exports (C:\\vscode\\BEE manager\\src\\events\\message\\messageCreate.js:410:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: sent is not defined"}
+{"level":50,"time":1754694169638,"pid":11524,"hostname":"Durangos_PC","err":{"type":"ReferenceError","message":"sent is not defined","stack":"ReferenceError: sent is not defined\n    at module.exports (C:\\vscode\\BEE manager\\src\\events\\message\\messageCreate.js:410:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: sent is not defined"}

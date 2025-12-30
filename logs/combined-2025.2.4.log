@@ -1,0 +1,282 @@
+{"level":30,"time":1738692353400,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Validating config file and environment variables"}
+{"level":40,"time":1738692353401,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1738692353560,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading commands..."}
+{"level":20,"time":1738692353582,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command amongus. Disabled!"}
+{"level":20,"time":1738692353641,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command editxp. Disabled!"}
+{"level":20,"time":1738692353648,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command embedsite. Disabled!"}
+{"level":20,"time":1738692353673,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command reset-lb. Disabled!"}
+{"level":20,"time":1738692353676,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command to-do. Disabled!"}
+{"level":20,"time":1738692353677,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command cooldown. Disabled!"}
+{"level":20,"time":1738692353680,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command resetcd. Disabled!"}
+{"level":20,"time":1738692353682,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command shift. Disabled!"}
+{"level":20,"time":1738692353683,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command shiftmanagement. Disabled!"}
+{"level":20,"time":1738692353688,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command special. Disabled!"}
+{"level":20,"time":1738692353688,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command staffpoints. Disabled!"}
+{"level":20,"time":1738692353813,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command confess. Disabled!"}
+{"level":20,"time":1738692353814,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command confession. Disabled!"}
+{"level":20,"time":1738692353815,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command blackjack. Disabled!"}
+{"level":20,"time":1738692353846,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command slots. Disabled!"}
+{"level":20,"time":1738692353846,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command steal. Disabled!"}
+{"level":20,"time":1738692353847,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command work. Disabled!"}
+{"level":20,"time":1738692354080,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command meme. Disabled!"}
+{"level":20,"time":1738692355278,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1738692355278,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1738692355280,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1738692355282,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1738692355349,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1738692355353,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1738692355354,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1738692355356,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1738692355357,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1738692355365,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command cateringinfo. Disabled!"}
+{"level":20,"time":1738692355365,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command order. Disabled!"}
+{"level":20,"time":1738692355366,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command oc. Disabled!"}
+{"level":20,"time":1738692355367,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command task. Disabled!"}
+{"level":20,"time":1738692355368,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command tasksetup. Disabled!"}
+{"level":20,"time":1738692355369,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command give. Disabled!"}
+{"level":20,"time":1738692355369,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command reload. Disabled!"}
+{"level":20,"time":1738692355444,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command donator. Disabled!"}
+{"level":20,"time":1738692355452,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command guidelines. Disabled!"}
+{"level":20,"time":1738692355458,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command protocols. Disabled!"}
+{"level":20,"time":1738692355463,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command rules. Disabled!"}
+{"level":20,"time":1738692355468,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command serverinfo. Disabled!"}
+{"level":20,"time":1738692355469,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command tags. Disabled!"}
+{"level":30,"time":1738692355471,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 57 commands"}
+{"level":30,"time":1738692355471,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1738692355471,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading contexts..."}
+{"level":30,"time":1738692355472,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1738692355472,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1738692355472,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading events..."}
+{"level":30,"time":1738692355573,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 17 events. Success (17) Failed (0)"}
+{"level":30,"time":1738692355649,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1738692358156,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1738692359842,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Logged in as BEE Manager 🐝#2363! (1253026215434911865)"}
+{"level":30,"time":1738692359842,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1738692360208,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Successfully registered interactions"}
+{"level":30,"time":1738692360308,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1738692363446,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","err":{"type":"DiscordAPIError","message":"Invalid Form Body\ncontent[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length.","stack":"DiscordAPIError[50035]: Invalid Form Body\ncontent[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length.\n    at handleErrors (/home/container/node_modules/@discordjs/rest/dist/index.js:727:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:1128:23)\n    at async SequentialHandler.queueRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:959:14)\n    at async _REST.request (/home/container/node_modules/@discordjs/rest/dist/index.js:1272:22)\n    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:182:15)","requestBody":{"files":[],"json":{"content":"# How to gain XP:\n> * You must join the shift and post your __paycheck__ in <#1267959207399788625> or be in a photo with the shift lead to be eligible for XP\n> * This XP allows you to level up with <@437808476106784770> and receive bonuses once you reach a certain level\n> * Details about levels can be found in <#1267959190337618022>\n> * Joining a shift hosted by a <@&1267959004873752647> or a <@&1267959005767274638> grants you __100__ XP\n> * Joining a shift hosted by a fellow worker grants you __50__ XP\n> * Joining a shift hosted during Workaholic Weekend grants you __2x__ XP\n> * By posting a clear group photo with the hashtag `#beehive`, you and everyone captured inside the photo can gain an extra __25__ XP\n\n# Snap a good photo\n> * Everyone's face is in good lighting\n> * Everyone is energized and clean\n> * Everyone's in uniform **or** at the job location (don't need both)\n> * Someone is saying `#beehive` in-game\n> * Only pictures with a minimum of __3__ workers will be eligible for the extra 25 XP\n> * Work photos must include a minimum of __2__ workers to be eligible for the standard amount of XP. To be eligible for the bonus 25 XP, those photos still require __3__ workers.\n> * Everyone's Roblox display name can be easily read, names should not be hidden behind each other\n> ### If your Discord nickname is different than your Roblox display name, you must also post your paycheck so that you are easily identifiable \n> ### Group photos without any names will not be counted\n\n> ### When the week ends, every Sunday when XP is being distributed...\n> * The employee with the most XP will be <@&1267959000201433160> and receive $50,000 <:BBCbag:1268087700141903974> and bonus giveaway entries for the week.\n> * The Shift Manager with the most XP will be <@&1275522324514472119> and receive $50,000 <:BBCbag:1268087700141903974>.\n-# Ties will result in prize being split amongst number of ties\n> * Employees who post the best, [most creative group picture of the week](https://discord.com/channels/1256349528190222386/1267959189259554886/1328099110355603608) will win __**300 XP**__ toward the leaderboard & __<@&1328099488941740214>__.","tts":false,"enforce_nonce":false,"allowed_mentions":{"parse":["users","everyone","roles"]}}},"rawError":{"type":"Object","message":"Invalid Form Body","stack":"","code":50035,"errors":{"content":{"_errors":[{"code":"BASE_TYPE_MAX_LENGTH","message":"Must be 2000 or fewer in length."}]}}},"code":50035,"status":400,"method":"POST","url":"https://discord.com/api/v10/channels/1270635130893107283/messages"},"msg":"Unhandled exception: Invalid Form Body\ncontent[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length."}
+{"level":30,"time":1738692489387,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Validating config file and environment variables"}
+{"level":40,"time":1738692489392,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1738692489494,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading commands..."}
+{"level":20,"time":1738692489555,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command amongus. Disabled!"}
+{"level":20,"time":1738692489556,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command editxp. Disabled!"}
+{"level":20,"time":1738692489557,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command embedsite. Disabled!"}
+{"level":20,"time":1738692489575,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command reset-lb. Disabled!"}
+{"level":20,"time":1738692489577,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command to-do. Disabled!"}
+{"level":20,"time":1738692489579,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command cooldown. Disabled!"}
+{"level":20,"time":1738692489640,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command resetcd. Disabled!"}
+{"level":20,"time":1738692489644,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command shift. Disabled!"}
+{"level":20,"time":1738692489645,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command shiftmanagement. Disabled!"}
+{"level":20,"time":1738692489648,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command special. Disabled!"}
+{"level":20,"time":1738692489649,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command staffpoints. Disabled!"}
+{"level":20,"time":1738692489743,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command confess. Disabled!"}
+{"level":20,"time":1738692489744,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command confession. Disabled!"}
+{"level":20,"time":1738692489746,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command blackjack. Disabled!"}
+{"level":20,"time":1738692489759,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command slots. Disabled!"}
+{"level":20,"time":1738692489760,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command steal. Disabled!"}
+{"level":20,"time":1738692489760,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command work. Disabled!"}
+{"level":20,"time":1738692489986,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command meme. Disabled!"}
+{"level":20,"time":1738692491348,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1738692491349,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1738692491351,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1738692491353,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1738692491361,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1738692491363,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1738692491364,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1738692491365,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1738692491366,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1738692491373,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command cateringinfo. Disabled!"}
+{"level":20,"time":1738692491374,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command order. Disabled!"}
+{"level":20,"time":1738692491440,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command oc. Disabled!"}
+{"level":20,"time":1738692491441,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command task. Disabled!"}
+{"level":20,"time":1738692491450,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command tasksetup. Disabled!"}
+{"level":20,"time":1738692491451,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command give. Disabled!"}
+{"level":20,"time":1738692491452,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command reload. Disabled!"}
+{"level":20,"time":1738692491479,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command donator. Disabled!"}
+{"level":20,"time":1738692491482,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command guidelines. Disabled!"}
+{"level":20,"time":1738692491486,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command protocols. Disabled!"}
+{"level":20,"time":1738692491488,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command rules. Disabled!"}
+{"level":20,"time":1738692491489,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command serverinfo. Disabled!"}
+{"level":20,"time":1738692491490,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command tags. Disabled!"}
+{"level":30,"time":1738692491494,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 57 commands"}
+{"level":30,"time":1738692491494,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1738692491495,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading contexts..."}
+{"level":30,"time":1738692491496,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1738692491496,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1738692491497,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading events..."}
+{"level":30,"time":1738692491563,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 17 events. Success (17) Failed (0)"}
+{"level":30,"time":1738692491658,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1738692495985,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1738692496958,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Logged in as BEE Manager 🐝#2363! (1253026215434911865)"}
+{"level":30,"time":1738692496958,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1738692497578,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Successfully registered interactions"}
+{"level":30,"time":1738692497948,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1738692673053,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Validating config file and environment variables"}
+{"level":40,"time":1738692673055,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1738692673177,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading commands..."}
+{"level":20,"time":1738692673248,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command amongus. Disabled!"}
+{"level":20,"time":1738692673249,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command editxp. Disabled!"}
+{"level":20,"time":1738692673251,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command embedsite. Disabled!"}
+{"level":20,"time":1738692673256,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command reset-lb. Disabled!"}
+{"level":20,"time":1738692673258,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command to-do. Disabled!"}
+{"level":20,"time":1738692673259,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command cooldown. Disabled!"}
+{"level":20,"time":1738692673260,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command resetcd. Disabled!"}
+{"level":20,"time":1738692673262,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command shift. Disabled!"}
+{"level":20,"time":1738692673263,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command shiftmanagement. Disabled!"}
+{"level":20,"time":1738692673266,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command special. Disabled!"}
+{"level":20,"time":1738692673267,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command staffpoints. Disabled!"}
+{"level":20,"time":1738692673372,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command confess. Disabled!"}
+{"level":20,"time":1738692673376,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command confession. Disabled!"}
+{"level":20,"time":1738692673442,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command blackjack. Disabled!"}
+{"level":20,"time":1738692673446,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command slots. Disabled!"}
+{"level":20,"time":1738692673446,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command steal. Disabled!"}
+{"level":20,"time":1738692673448,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command work. Disabled!"}
+{"level":20,"time":1738692673671,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command meme. Disabled!"}
+{"level":20,"time":1738692674977,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1738692674980,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1738692674983,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1738692674986,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1738692675040,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1738692675041,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1738692675042,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1738692675045,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1738692675046,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1738692675056,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command cateringinfo. Disabled!"}
+{"level":20,"time":1738692675057,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command order. Disabled!"}
+{"level":20,"time":1738692675057,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command oc. Disabled!"}
+{"level":20,"time":1738692675058,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command task. Disabled!"}
+{"level":20,"time":1738692675059,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command tasksetup. Disabled!"}
+{"level":20,"time":1738692675060,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command give. Disabled!"}
+{"level":20,"time":1738692675061,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command reload. Disabled!"}
+{"level":20,"time":1738692675140,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command donator. Disabled!"}
+{"level":20,"time":1738692675143,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command guidelines. Disabled!"}
+{"level":20,"time":1738692675145,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command protocols. Disabled!"}
+{"level":20,"time":1738692675146,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command rules. Disabled!"}
+{"level":20,"time":1738692675147,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command serverinfo. Disabled!"}
+{"level":20,"time":1738692675148,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command tags. Disabled!"}
+{"level":30,"time":1738692675157,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 57 commands"}
+{"level":30,"time":1738692675157,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1738692675157,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading contexts..."}
+{"level":30,"time":1738692675161,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1738692675161,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1738692675162,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading events..."}
+{"level":30,"time":1738692675259,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 17 events. Success (17) Failed (0)"}
+{"level":30,"time":1738692675363,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1738692678848,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1738692679675,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Logged in as BEE Manager 🐝#2363! (1253026215434911865)"}
+{"level":30,"time":1738692679675,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1738692680139,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Successfully registered interactions"}
+{"level":30,"time":1738692680702,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1738692756757,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Validating config file and environment variables"}
+{"level":40,"time":1738692756760,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1738692756870,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading commands..."}
+{"level":20,"time":1738692756874,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command amongus. Disabled!"}
+{"level":20,"time":1738692756876,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command editxp. Disabled!"}
+{"level":20,"time":1738692756877,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command embedsite. Disabled!"}
+{"level":20,"time":1738692756953,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command reset-lb. Disabled!"}
+{"level":20,"time":1738692756961,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command to-do. Disabled!"}
+{"level":20,"time":1738692756962,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command cooldown. Disabled!"}
+{"level":20,"time":1738692756963,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command resetcd. Disabled!"}
+{"level":20,"time":1738692756966,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command shift. Disabled!"}
+{"level":20,"time":1738692756969,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command shiftmanagement. Disabled!"}
+{"level":20,"time":1738692756977,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command special. Disabled!"}
+{"level":20,"time":1738692756977,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command staffpoints. Disabled!"}
+{"level":20,"time":1738692757066,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command confess. Disabled!"}
+{"level":20,"time":1738692757067,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command confession. Disabled!"}
+{"level":20,"time":1738692757069,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command blackjack. Disabled!"}
+{"level":20,"time":1738692757073,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command slots. Disabled!"}
+{"level":20,"time":1738692757074,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command steal. Disabled!"}
+{"level":20,"time":1738692757074,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command work. Disabled!"}
+{"level":20,"time":1738692757362,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command meme. Disabled!"}
+{"level":20,"time":1738692758671,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1738692758674,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1738692758678,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1738692758679,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1738692758747,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1738692758753,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1738692758755,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1738692758759,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1738692758760,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1738692758773,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command cateringinfo. Disabled!"}
+{"level":20,"time":1738692758775,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command order. Disabled!"}
+{"level":20,"time":1738692758776,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command oc. Disabled!"}
+{"level":20,"time":1738692758777,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command task. Disabled!"}
+{"level":20,"time":1738692758778,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command tasksetup. Disabled!"}
+{"level":20,"time":1738692758781,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command give. Disabled!"}
+{"level":20,"time":1738692758786,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command reload. Disabled!"}
+{"level":20,"time":1738692758863,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command donator. Disabled!"}
+{"level":20,"time":1738692758865,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command guidelines. Disabled!"}
+{"level":20,"time":1738692758874,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command protocols. Disabled!"}
+{"level":20,"time":1738692758876,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command rules. Disabled!"}
+{"level":20,"time":1738692758879,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command serverinfo. Disabled!"}
+{"level":20,"time":1738692758882,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command tags. Disabled!"}
+{"level":30,"time":1738692758884,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 57 commands"}
+{"level":30,"time":1738692758884,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1738692758884,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading contexts..."}
+{"level":30,"time":1738692758885,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1738692758886,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1738692758886,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading events..."}
+{"level":30,"time":1738692759070,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 17 events. Success (17) Failed (0)"}
+{"level":30,"time":1738692759142,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1738692761606,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1738692762549,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Logged in as BEE Manager 🐝#2363! (1253026215434911865)"}
+{"level":30,"time":1738692762550,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1738692763271,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Successfully registered interactions"}
+{"level":30,"time":1738692763461,"pid":27,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1738692933263,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Validating config file and environment variables"}
+{"level":40,"time":1738692933266,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1738692933388,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading commands..."}
+{"level":20,"time":1738692933393,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command amongus. Disabled!"}
+{"level":20,"time":1738692933448,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command editxp. Disabled!"}
+{"level":20,"time":1738692933449,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command embedsite. Disabled!"}
+{"level":20,"time":1738692933456,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command reset-lb. Disabled!"}
+{"level":20,"time":1738692933458,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command to-do. Disabled!"}
+{"level":20,"time":1738692933460,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command cooldown. Disabled!"}
+{"level":20,"time":1738692933461,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command resetcd. Disabled!"}
+{"level":20,"time":1738692933466,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command shift. Disabled!"}
+{"level":20,"time":1738692933467,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command shiftmanagement. Disabled!"}
+{"level":20,"time":1738692933468,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command special. Disabled!"}
+{"level":20,"time":1738692933469,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command staffpoints. Disabled!"}
+{"level":20,"time":1738692933644,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command confess. Disabled!"}
+{"level":20,"time":1738692933645,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command confession. Disabled!"}
+{"level":20,"time":1738692933649,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command blackjack. Disabled!"}
+{"level":20,"time":1738692933658,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command slots. Disabled!"}
+{"level":20,"time":1738692933658,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command steal. Disabled!"}
+{"level":20,"time":1738692933659,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command work. Disabled!"}
+{"level":20,"time":1738692933940,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command meme. Disabled!"}
+{"level":20,"time":1738692935241,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1738692935242,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1738692935244,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1738692935245,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1738692935253,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1738692935254,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1738692935255,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1738692935257,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1738692935257,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1738692935265,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command cateringinfo. Disabled!"}
+{"level":20,"time":1738692935266,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command order. Disabled!"}
+{"level":20,"time":1738692935266,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command oc. Disabled!"}
+{"level":20,"time":1738692935267,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command task. Disabled!"}
+{"level":20,"time":1738692935268,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command tasksetup. Disabled!"}
+{"level":20,"time":1738692935269,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command give. Disabled!"}
+{"level":20,"time":1738692935269,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command reload. Disabled!"}
+{"level":20,"time":1738692935348,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command donator. Disabled!"}
+{"level":20,"time":1738692935352,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command guidelines. Disabled!"}
+{"level":20,"time":1738692935356,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command protocols. Disabled!"}
+{"level":20,"time":1738692935360,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command rules. Disabled!"}
+{"level":20,"time":1738692935367,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command serverinfo. Disabled!"}
+{"level":20,"time":1738692935368,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Skipping command tags. Disabled!"}
+{"level":30,"time":1738692935372,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 57 commands"}
+{"level":30,"time":1738692935372,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1738692935372,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading contexts..."}
+{"level":30,"time":1738692935376,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1738692935376,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1738692935376,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loading events..."}
+{"level":30,"time":1738692935472,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Loaded 17 events. Success (17) Failed (0)"}
+{"level":30,"time":1738692935546,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1738692938114,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1738692938958,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Logged in as BEE Manager 🐝#2363! (1253026215434911865)"}
+{"level":30,"time":1738692938958,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1738692939462,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Successfully registered interactions"}
+{"level":30,"time":1738692939692,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1738703739445,"pid":26,"hostname":"17f12e34-03ef-4d26-ba7c-d7e7d60592cf","err":{"type":"HTTPError","message":"Service Unavailable","stack":"HTTPError: Service Unavailable\n    at handleErrors (/home/container/node_modules/@discordjs/rest/dist/index.js:720:11)\n    at SequentialHandler.runRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:1128:29)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.queueRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:959:14)\n    at async _REST.request (/home/container/node_modules/@discordjs/rest/dist/index.js:1272:22)\n    at async GuildChannelManager.edit (/home/container/node_modules/discord.js/src/managers/GuildChannelManager.js:315:21)\n    at async Timeout.myFunction [as _onTimeout] (/home/container/bot.js:81:3)","requestBody":{"json":{"name":"All Members: 847"}},"name":"HTTPError","status":503,"method":"PATCH","url":"https://discord.com/api/v10/channels/1268594699984306351"},"msg":"Unhandled exception: Service Unavailable"}

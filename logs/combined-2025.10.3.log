@@ -1,0 +1,57 @@
+{"level":30,"time":1759520594394,"pid":7756,"hostname":"Durangos_PC","msg":"Validating config file and environment variables"}
+{"level":40,"time":1759520594395,"pid":7756,"hostname":"Durangos_PC","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1759520594474,"pid":7756,"hostname":"Durangos_PC","msg":"Loading commands..."}
+{"level":20,"time":1759520594487,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command amongus. Disabled!"}
+{"level":20,"time":1759520594488,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command editxp. Disabled!"}
+{"level":20,"time":1759520594489,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command embedsite. Disabled!"}
+{"level":20,"time":1759520594494,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command partner. Disabled!"}
+{"level":20,"time":1759520594496,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command reset-lb. Disabled!"}
+{"level":20,"time":1759520594497,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command to-do. Disabled!"}
+{"level":20,"time":1759520594498,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command cooldown. Disabled!"}
+{"level":20,"time":1759520594499,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command resetcd. Disabled!"}
+{"level":20,"time":1759520594500,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command shift. Disabled!"}
+{"level":20,"time":1759520594501,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command shiftmanagement. Disabled!"}
+{"level":20,"time":1759520594502,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command special. Disabled!"}
+{"level":20,"time":1759520594503,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command staffpoints. Disabled!"}
+{"level":20,"time":1759520594552,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command confess. Disabled!"}
+{"level":20,"time":1759520594553,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command confession. Disabled!"}
+{"level":20,"time":1759520594554,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command blackjack. Disabled!"}
+{"level":20,"time":1759520594558,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command slots. Disabled!"}
+{"level":20,"time":1759520594558,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command steal. Disabled!"}
+{"level":20,"time":1759520594559,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command work. Disabled!"}
+{"level":20,"time":1759520594632,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command meme. Disabled!"}
+{"level":20,"time":1759520595220,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1759520595221,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1759520595223,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1759520595224,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1759520595230,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1759520595231,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1759520595232,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1759520595233,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1759520595234,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1759520595240,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command cateringinfo. Disabled!"}
+{"level":20,"time":1759520595240,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command order. Disabled!"}
+{"level":20,"time":1759520595241,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command oc. Disabled!"}
+{"level":20,"time":1759520595242,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command task. Disabled!"}
+{"level":20,"time":1759520595242,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command tasksetup. Disabled!"}
+{"level":20,"time":1759520595244,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command give. Disabled!"}
+{"level":20,"time":1759520595244,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command reload. Disabled!"}
+{"level":20,"time":1759520595254,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command donator. Disabled!"}
+{"level":20,"time":1759520595256,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command guidelines. Disabled!"}
+{"level":20,"time":1759520595258,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command protocols. Disabled!"}
+{"level":20,"time":1759520595259,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command rules. Disabled!"}
+{"level":20,"time":1759520595260,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command serverinfo. Disabled!"}
+{"level":20,"time":1759520595260,"pid":7756,"hostname":"Durangos_PC","msg":"Skipping command tags. Disabled!"}
+{"level":30,"time":1759520595262,"pid":7756,"hostname":"Durangos_PC","msg":"Loaded 57 commands"}
+{"level":30,"time":1759520595262,"pid":7756,"hostname":"Durangos_PC","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1759520595262,"pid":7756,"hostname":"Durangos_PC","msg":"Loading contexts..."}
+{"level":30,"time":1759520595263,"pid":7756,"hostname":"Durangos_PC","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1759520595263,"pid":7756,"hostname":"Durangos_PC","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1759520595263,"pid":7756,"hostname":"Durangos_PC","msg":"Loading events..."}
+{"level":30,"time":1759520595287,"pid":7756,"hostname":"Durangos_PC","msg":"Loaded 17 events. Success (17) Failed (0)"}
+{"level":30,"time":1759520595320,"pid":7756,"hostname":"Durangos_PC","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1759520598319,"pid":7756,"hostname":"Durangos_PC","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1759520600486,"pid":7756,"hostname":"Durangos_PC","msg":"Logged in as BEE Manager 🐝#2363! (1253026215434911865)"}
+{"level":30,"time":1759520600486,"pid":7756,"hostname":"Durangos_PC","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1759520600830,"pid":7756,"hostname":"Durangos_PC","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1759520601462,"pid":7756,"hostname":"Durangos_PC","msg":"Successfully registered interactions"}

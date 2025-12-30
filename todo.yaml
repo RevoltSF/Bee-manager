@@ -1,0 +1,124 @@
+todoLists:
+  - startDate: <t:1752346800:F>
+    endDate: <t:1753556400:F>
+    pendingMessageID: null
+    tasks:
+      - id: 1
+        description: Organize/update <#1267959226559365275> threads
+        category: undone
+        assignedTo: George
+        UserID: '1106356654628409354'
+        status: pending
+        subtasks: []
+      - id: 2
+        description: >-
+          Check if still partnered, check server for partner req, inform server
+          of rep change or terminate **UPDATE [PARTNER
+          SHEET](https://docs.google.com/spreadsheets/d/1qxiPdfAQLnZCkpiV7kiad24lzDQ4WpFNjZx0hUx9zEo/edit?gid=1167458733#gid=1167458733)**
+        category: time
+        assignedTo: null
+        UserID: null
+        status: pending
+        subtasks:
+          - subid: 2.1
+            description: Bloxburg Builders HQ
+            category: undone
+            assignedTo: George
+            UserID: '1106356654628409354'
+            status: completed
+          - subid: 2.2
+            description: Bloxburg Sunset Resorts
+            category: undone
+            assignedTo: Dee
+            UserID: '271078843786330114'
+            status: completed
+          - subid: 2.3
+            description: Coconut Cuisines
+            category: undone
+            assignedTo: null
+            UserID: null
+            status: pending
+          - subid: 2.4
+            description: CT Hotels And Resorts
+            category: undone
+            assignedTo: George
+            UserID: '1106356654628409354'
+            status: completed
+          - subid: 2.5
+            description: East Drazlyn High School
+            category: undone
+            assignedTo: null
+            UserID: null
+            status: pending
+          - subid: 2.6
+            description: Geodae Medical Foundation
+            category: undone
+            assignedTo: null
+            UserID: null
+            status: pending
+          - subid: 2.7
+            description: Lakeside Coast University
+            category: undone
+            assignedTo: George
+            UserID: '1106356654628409354'
+            status: pending
+          - subid: 2.8
+            description: Pinecrest, WA
+            category: undone
+            assignedTo: Dee
+            UserID: '271078843786330114'
+            status: completed
+      - id: 3
+        description: >-
+          Check if still partnered, check server for partner req, inform server
+          of rep change or terminate **UPDATE [PARTNER
+          SHEET](https://docs.google.com/spreadsheets/d/1qxiPdfAQLnZCkpiV7kiad24lzDQ4WpFNjZx0hUx9zEo/edit?gid=1167458733#gid=1167458733)**
+        category: time
+        assignedTo: null
+        UserID: null
+        status: pending
+        subtasks:
+          - subid: 3.1
+            description: Aman
+            category: undone
+            assignedTo: null
+            UserID: null
+            status: pending
+          - subid: 3.2
+            description: Bloxburg Disney Universe
+            category: undone
+            assignedTo: George
+            UserID: '1106356654628409354'
+            status: completed
+          - subid: 3.3
+            description: Divine
+            category: undone
+            assignedTo: null
+            UserID: null
+            status: pending
+          - subid: 3.4
+            description: Mountain Resorts
+            category: undone
+            assignedTo: null
+            UserID: null
+            status: pending
+          - subid: 3.5
+            description: Stellar Coast Academy
+            category: undone
+            assignedTo: null
+            UserID: null
+            status: pending
+          - subid: 3.6
+            description: Sweet 'n Spice
+            category: undone
+            assignedTo: George
+            UserID: '1106356654628409354'
+            status: completed
+      - id: 4
+        description: Confirm <#1377309208751509657>  is ready for new Managers
+        category: undone
+        assignedTo: Detrius
+        UserID: '798398834510266398'
+        status: pending
+        subtasks: []
+    messageID: '1393665184836620468'

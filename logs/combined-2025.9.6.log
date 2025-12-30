@@ -1,0 +1,290 @@
+{"level":30,"time":1757189459240,"pid":11960,"hostname":"Durangos_PC","msg":"Validating config file and environment variables"}
+{"level":40,"time":1757189459241,"pid":11960,"hostname":"Durangos_PC","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1757189460080,"pid":11960,"hostname":"Durangos_PC","msg":"Loading commands..."}
+{"level":20,"time":1757189460089,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command amongus. Disabled!"}
+{"level":20,"time":1757189460090,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command editxp. Disabled!"}
+{"level":20,"time":1757189460091,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command embedsite. Disabled!"}
+{"level":20,"time":1757189460097,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command partner. Disabled!"}
+{"level":20,"time":1757189460099,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command reset-lb. Disabled!"}
+{"level":20,"time":1757189460100,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command to-do. Disabled!"}
+{"level":20,"time":1757189460102,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command cooldown. Disabled!"}
+{"level":20,"time":1757189460102,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command resetcd. Disabled!"}
+{"level":20,"time":1757189460124,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command shift. Disabled!"}
+{"level":20,"time":1757189460125,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command shiftmanagement. Disabled!"}
+{"level":20,"time":1757189460126,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command special. Disabled!"}
+{"level":20,"time":1757189460127,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command staffpoints. Disabled!"}
+{"level":20,"time":1757189460823,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command confess. Disabled!"}
+{"level":20,"time":1757189460824,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command confession. Disabled!"}
+{"level":20,"time":1757189460826,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command blackjack. Disabled!"}
+{"level":20,"time":1757189460830,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command slots. Disabled!"}
+{"level":20,"time":1757189460831,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command steal. Disabled!"}
+{"level":20,"time":1757189460831,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command work. Disabled!"}
+{"level":20,"time":1757189461484,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command meme. Disabled!"}
+{"level":20,"time":1757189465527,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1757189465528,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1757189465530,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1757189465531,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1757189465618,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1757189465618,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1757189465619,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1757189465620,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1757189465621,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1757189465627,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command cateringinfo. Disabled!"}
+{"level":20,"time":1757189465628,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command order. Disabled!"}
+{"level":20,"time":1757189465628,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command oc. Disabled!"}
+{"level":20,"time":1757189465629,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command task. Disabled!"}
+{"level":20,"time":1757189465630,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command tasksetup. Disabled!"}
+{"level":20,"time":1757189465631,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command give. Disabled!"}
+{"level":20,"time":1757189465631,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command reload. Disabled!"}
+{"level":20,"time":1757189465669,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command donator. Disabled!"}
+{"level":20,"time":1757189465670,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command guidelines. Disabled!"}
+{"level":20,"time":1757189465672,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command protocols. Disabled!"}
+{"level":20,"time":1757189465673,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command rules. Disabled!"}
+{"level":20,"time":1757189465674,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command serverinfo. Disabled!"}
+{"level":20,"time":1757189465674,"pid":11960,"hostname":"Durangos_PC","msg":"Skipping command tags. Disabled!"}
+{"level":30,"time":1757189465676,"pid":11960,"hostname":"Durangos_PC","msg":"Loaded 57 commands"}
+{"level":30,"time":1757189465676,"pid":11960,"hostname":"Durangos_PC","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1757189465676,"pid":11960,"hostname":"Durangos_PC","msg":"Loading contexts..."}
+{"level":30,"time":1757189465677,"pid":11960,"hostname":"Durangos_PC","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1757189465677,"pid":11960,"hostname":"Durangos_PC","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1757189465677,"pid":11960,"hostname":"Durangos_PC","msg":"Loading events..."}
+{"level":30,"time":1757189465722,"pid":11960,"hostname":"Durangos_PC","msg":"Loaded 17 events. Success (17) Failed (0)"}
+{"level":30,"time":1757189466072,"pid":11960,"hostname":"Durangos_PC","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1757189468966,"pid":11960,"hostname":"Durangos_PC","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1757189470137,"pid":11960,"hostname":"Durangos_PC","msg":"Logged in as BEE Manager 🐝TEST#9627! (1268489856137433148)"}
+{"level":30,"time":1757189470137,"pid":11960,"hostname":"Durangos_PC","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1757189472657,"pid":11960,"hostname":"Durangos_PC","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1757189473288,"pid":11960,"hostname":"Durangos_PC","msg":"Successfully registered interactions"}
+{"level":50,"time":1757189473893,"pid":11960,"hostname":"Durangos_PC","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'channels')","stack":"TypeError: Cannot read properties of undefined (reading 'channels')\n    at module.exports (C:\\vscode\\BEE manager\\src\\events\\ready.js:57:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of undefined (reading 'channels')"}
+{"level":30,"time":1757189662997,"pid":31040,"hostname":"Durangos_PC","msg":"Validating config file and environment variables"}
+{"level":40,"time":1757189662998,"pid":31040,"hostname":"Durangos_PC","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1757189663040,"pid":31040,"hostname":"Durangos_PC","msg":"Loading commands..."}
+{"level":20,"time":1757189663053,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command amongus. Disabled!"}
+{"level":20,"time":1757189663053,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command editxp. Disabled!"}
+{"level":20,"time":1757189663054,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command embedsite. Disabled!"}
+{"level":20,"time":1757189663059,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command partner. Disabled!"}
+{"level":20,"time":1757189663061,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command reset-lb. Disabled!"}
+{"level":20,"time":1757189663063,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command to-do. Disabled!"}
+{"level":20,"time":1757189663064,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command cooldown. Disabled!"}
+{"level":20,"time":1757189663065,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command resetcd. Disabled!"}
+{"level":20,"time":1757189663067,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command shift. Disabled!"}
+{"level":20,"time":1757189663067,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command shiftmanagement. Disabled!"}
+{"level":20,"time":1757189663069,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command special. Disabled!"}
+{"level":20,"time":1757189663070,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command staffpoints. Disabled!"}
+{"level":20,"time":1757189663103,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command confess. Disabled!"}
+{"level":20,"time":1757189663104,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command confession. Disabled!"}
+{"level":20,"time":1757189663106,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command blackjack. Disabled!"}
+{"level":20,"time":1757189663111,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command slots. Disabled!"}
+{"level":20,"time":1757189663112,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command steal. Disabled!"}
+{"level":20,"time":1757189663112,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command work. Disabled!"}
+{"level":20,"time":1757189663169,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command meme. Disabled!"}
+{"level":20,"time":1757189663708,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1757189663709,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1757189663711,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1757189663712,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1757189663718,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1757189663719,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1757189663720,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1757189663721,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1757189663722,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1757189663728,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command cateringinfo. Disabled!"}
+{"level":20,"time":1757189663729,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command order. Disabled!"}
+{"level":20,"time":1757189663730,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command oc. Disabled!"}
+{"level":20,"time":1757189663731,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command task. Disabled!"}
+{"level":20,"time":1757189663731,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command tasksetup. Disabled!"}
+{"level":20,"time":1757189663732,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command give. Disabled!"}
+{"level":20,"time":1757189663733,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command reload. Disabled!"}
+{"level":20,"time":1757189663743,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command donator. Disabled!"}
+{"level":20,"time":1757189663744,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command guidelines. Disabled!"}
+{"level":20,"time":1757189663747,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command protocols. Disabled!"}
+{"level":20,"time":1757189663748,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command rules. Disabled!"}
+{"level":20,"time":1757189663748,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command serverinfo. Disabled!"}
+{"level":20,"time":1757189663749,"pid":31040,"hostname":"Durangos_PC","msg":"Skipping command tags. Disabled!"}
+{"level":30,"time":1757189663751,"pid":31040,"hostname":"Durangos_PC","msg":"Loaded 57 commands"}
+{"level":30,"time":1757189663751,"pid":31040,"hostname":"Durangos_PC","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1757189663752,"pid":31040,"hostname":"Durangos_PC","msg":"Loading contexts..."}
+{"level":30,"time":1757189663753,"pid":31040,"hostname":"Durangos_PC","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1757189663753,"pid":31040,"hostname":"Durangos_PC","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1757189663753,"pid":31040,"hostname":"Durangos_PC","msg":"Loading events..."}
+{"level":30,"time":1757189663776,"pid":31040,"hostname":"Durangos_PC","msg":"Loaded 17 events. Success (17) Failed (0)"}
+{"level":30,"time":1757189663790,"pid":31040,"hostname":"Durangos_PC","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1757189666826,"pid":31040,"hostname":"Durangos_PC","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1757189667768,"pid":31040,"hostname":"Durangos_PC","msg":"Logged in as BEE Manager 🐝TEST#9627! (1268489856137433148)"}
+{"level":30,"time":1757189667768,"pid":31040,"hostname":"Durangos_PC","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1757189669271,"pid":31040,"hostname":"Durangos_PC","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1757189670120,"pid":31040,"hostname":"Durangos_PC","msg":"Successfully registered interactions"}
+{"level":50,"time":1757189670667,"pid":31040,"hostname":"Durangos_PC","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'channels')","stack":"TypeError: Cannot read properties of undefined (reading 'channels')\n    at module.exports (C:\\vscode\\BEE manager\\src\\events\\ready.js:57:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of undefined (reading 'channels')"}
+{"level":30,"time":1757189748968,"pid":13680,"hostname":"Durangos_PC","msg":"Validating config file and environment variables"}
+{"level":40,"time":1757189748969,"pid":13680,"hostname":"Durangos_PC","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1757189749011,"pid":13680,"hostname":"Durangos_PC","msg":"Loading commands..."}
+{"level":20,"time":1757189749024,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command amongus. Disabled!"}
+{"level":20,"time":1757189749025,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command editxp. Disabled!"}
+{"level":20,"time":1757189749026,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command embedsite. Disabled!"}
+{"level":20,"time":1757189749031,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command partner. Disabled!"}
+{"level":20,"time":1757189749033,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command reset-lb. Disabled!"}
+{"level":20,"time":1757189749034,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command to-do. Disabled!"}
+{"level":20,"time":1757189749035,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command cooldown. Disabled!"}
+{"level":20,"time":1757189749036,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command resetcd. Disabled!"}
+{"level":20,"time":1757189749058,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command shift. Disabled!"}
+{"level":20,"time":1757189749059,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command shiftmanagement. Disabled!"}
+{"level":20,"time":1757189749061,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command special. Disabled!"}
+{"level":20,"time":1757189749061,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command staffpoints. Disabled!"}
+{"level":20,"time":1757189749092,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command confess. Disabled!"}
+{"level":20,"time":1757189749093,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command confession. Disabled!"}
+{"level":20,"time":1757189749095,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command blackjack. Disabled!"}
+{"level":20,"time":1757189749099,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command slots. Disabled!"}
+{"level":20,"time":1757189749100,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command steal. Disabled!"}
+{"level":20,"time":1757189749100,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command work. Disabled!"}
+{"level":20,"time":1757189749156,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command meme. Disabled!"}
+{"level":20,"time":1757189749651,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1757189749652,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1757189749654,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1757189749655,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1757189749661,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1757189749661,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1757189749662,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1757189749663,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1757189749664,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1757189749670,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command cateringinfo. Disabled!"}
+{"level":20,"time":1757189749671,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command order. Disabled!"}
+{"level":20,"time":1757189749671,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command oc. Disabled!"}
+{"level":20,"time":1757189749672,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command task. Disabled!"}
+{"level":20,"time":1757189749673,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command tasksetup. Disabled!"}
+{"level":20,"time":1757189749674,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command give. Disabled!"}
+{"level":20,"time":1757189749674,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command reload. Disabled!"}
+{"level":20,"time":1757189749684,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command donator. Disabled!"}
+{"level":20,"time":1757189749685,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command guidelines. Disabled!"}
+{"level":20,"time":1757189749687,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command protocols. Disabled!"}
+{"level":20,"time":1757189749688,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command rules. Disabled!"}
+{"level":20,"time":1757189749689,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command serverinfo. Disabled!"}
+{"level":20,"time":1757189749689,"pid":13680,"hostname":"Durangos_PC","msg":"Skipping command tags. Disabled!"}
+{"level":30,"time":1757189749691,"pid":13680,"hostname":"Durangos_PC","msg":"Loaded 57 commands"}
+{"level":30,"time":1757189749691,"pid":13680,"hostname":"Durangos_PC","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1757189749691,"pid":13680,"hostname":"Durangos_PC","msg":"Loading contexts..."}
+{"level":30,"time":1757189749692,"pid":13680,"hostname":"Durangos_PC","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1757189749692,"pid":13680,"hostname":"Durangos_PC","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1757189749692,"pid":13680,"hostname":"Durangos_PC","msg":"Loading events..."}
+{"level":30,"time":1757189749714,"pid":13680,"hostname":"Durangos_PC","msg":"Loaded 17 events. Success (17) Failed (0)"}
+{"level":30,"time":1757189749727,"pid":13680,"hostname":"Durangos_PC","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1757189752765,"pid":13680,"hostname":"Durangos_PC","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1757189753669,"pid":13680,"hostname":"Durangos_PC","msg":"Logged in as BEE Manager 🐝TEST#9627! (1268489856137433148)"}
+{"level":30,"time":1757189753670,"pid":13680,"hostname":"Durangos_PC","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1757189754561,"pid":13680,"hostname":"Durangos_PC","msg":"Successfully registered interactions"}
+{"level":30,"time":1757189754702,"pid":13680,"hostname":"Durangos_PC","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1757189755145,"pid":13680,"hostname":"Durangos_PC","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'channels')","stack":"TypeError: Cannot read properties of undefined (reading 'channels')\n    at module.exports (C:\\vscode\\BEE manager\\src\\events\\ready.js:57:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of undefined (reading 'channels')"}
+{"level":30,"time":1757189855077,"pid":21352,"hostname":"Durangos_PC","msg":"Validating config file and environment variables"}
+{"level":40,"time":1757189855078,"pid":21352,"hostname":"Durangos_PC","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1757189855119,"pid":21352,"hostname":"Durangos_PC","msg":"Loading commands..."}
+{"level":20,"time":1757189855131,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command amongus. Disabled!"}
+{"level":20,"time":1757189855132,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command editxp. Disabled!"}
+{"level":20,"time":1757189855133,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command embedsite. Disabled!"}
+{"level":20,"time":1757189855138,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command partner. Disabled!"}
+{"level":20,"time":1757189855140,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command reset-lb. Disabled!"}
+{"level":20,"time":1757189855141,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command to-do. Disabled!"}
+{"level":20,"time":1757189855143,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command cooldown. Disabled!"}
+{"level":20,"time":1757189855143,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command resetcd. Disabled!"}
+{"level":20,"time":1757189855167,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command shift. Disabled!"}
+{"level":20,"time":1757189855168,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command shiftmanagement. Disabled!"}
+{"level":20,"time":1757189855169,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command special. Disabled!"}
+{"level":20,"time":1757189855170,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command staffpoints. Disabled!"}
+{"level":20,"time":1757189855203,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command confess. Disabled!"}
+{"level":20,"time":1757189855204,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command confession. Disabled!"}
+{"level":20,"time":1757189855206,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command blackjack. Disabled!"}
+{"level":20,"time":1757189855211,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command slots. Disabled!"}
+{"level":20,"time":1757189855211,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command steal. Disabled!"}
+{"level":20,"time":1757189855212,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command work. Disabled!"}
+{"level":20,"time":1757189855265,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command meme. Disabled!"}
+{"level":20,"time":1757189855738,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1757189855739,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1757189855741,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1757189855742,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1757189855748,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1757189855748,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1757189855749,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1757189855750,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1757189855751,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1757189855757,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command cateringinfo. Disabled!"}
+{"level":20,"time":1757189855758,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command order. Disabled!"}
+{"level":20,"time":1757189855758,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command oc. Disabled!"}
+{"level":20,"time":1757189855759,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command task. Disabled!"}
+{"level":20,"time":1757189855760,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command tasksetup. Disabled!"}
+{"level":20,"time":1757189855761,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command give. Disabled!"}
+{"level":20,"time":1757189855761,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command reload. Disabled!"}
+{"level":20,"time":1757189855771,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command donator. Disabled!"}
+{"level":20,"time":1757189855773,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command guidelines. Disabled!"}
+{"level":20,"time":1757189855775,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command protocols. Disabled!"}
+{"level":20,"time":1757189855776,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command rules. Disabled!"}
+{"level":20,"time":1757189855777,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command serverinfo. Disabled!"}
+{"level":20,"time":1757189855777,"pid":21352,"hostname":"Durangos_PC","msg":"Skipping command tags. Disabled!"}
+{"level":30,"time":1757189855779,"pid":21352,"hostname":"Durangos_PC","msg":"Loaded 57 commands"}
+{"level":30,"time":1757189855779,"pid":21352,"hostname":"Durangos_PC","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1757189855779,"pid":21352,"hostname":"Durangos_PC","msg":"Loading contexts..."}
+{"level":30,"time":1757189855780,"pid":21352,"hostname":"Durangos_PC","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1757189855780,"pid":21352,"hostname":"Durangos_PC","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1757189855780,"pid":21352,"hostname":"Durangos_PC","msg":"Loading events..."}
+{"level":30,"time":1757189855803,"pid":21352,"hostname":"Durangos_PC","msg":"Loaded 17 events. Success (17) Failed (0)"}
+{"level":30,"time":1757189855817,"pid":21352,"hostname":"Durangos_PC","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1757189858826,"pid":21352,"hostname":"Durangos_PC","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1757189859785,"pid":21352,"hostname":"Durangos_PC","msg":"Logged in as BEE Manager 🐝TEST#9627! (1268489856137433148)"}
+{"level":30,"time":1757189859785,"pid":21352,"hostname":"Durangos_PC","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1757189860997,"pid":21352,"hostname":"Durangos_PC","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1757189861110,"pid":21352,"hostname":"Durangos_PC","msg":"Successfully registered interactions"}
+{"level":50,"time":1757189861694,"pid":21352,"hostname":"Durangos_PC","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'channels')","stack":"TypeError: Cannot read properties of undefined (reading 'channels')\n    at module.exports (C:\\vscode\\BEE manager\\src\\events\\ready.js:57:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of undefined (reading 'channels')"}
+{"level":30,"time":1757189927147,"pid":21048,"hostname":"Durangos_PC","msg":"Validating config file and environment variables"}
+{"level":40,"time":1757189927148,"pid":21048,"hostname":"Durangos_PC","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1757189927188,"pid":21048,"hostname":"Durangos_PC","msg":"Loading commands..."}
+{"level":20,"time":1757189927200,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command amongus. Disabled!"}
+{"level":20,"time":1757189927201,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command editxp. Disabled!"}
+{"level":20,"time":1757189927202,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command embedsite. Disabled!"}
+{"level":20,"time":1757189927207,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command partner. Disabled!"}
+{"level":20,"time":1757189927209,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command reset-lb. Disabled!"}
+{"level":20,"time":1757189927210,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command to-do. Disabled!"}
+{"level":20,"time":1757189927211,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command cooldown. Disabled!"}
+{"level":20,"time":1757189927212,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command resetcd. Disabled!"}
+{"level":20,"time":1757189927213,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command shift. Disabled!"}
+{"level":20,"time":1757189927214,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command shiftmanagement. Disabled!"}
+{"level":20,"time":1757189927215,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command special. Disabled!"}
+{"level":20,"time":1757189927216,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command staffpoints. Disabled!"}
+{"level":20,"time":1757189927246,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command confess. Disabled!"}
+{"level":20,"time":1757189927247,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command confession. Disabled!"}
+{"level":20,"time":1757189927249,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command blackjack. Disabled!"}
+{"level":20,"time":1757189927253,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command slots. Disabled!"}
+{"level":20,"time":1757189927253,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command steal. Disabled!"}
+{"level":20,"time":1757189927254,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command work. Disabled!"}
+{"level":20,"time":1757189927304,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command meme. Disabled!"}
+{"level":20,"time":1757189927772,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1757189927774,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1757189927775,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1757189927776,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1757189927782,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1757189927782,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1757189927783,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1757189927784,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1757189927785,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1757189927790,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command cateringinfo. Disabled!"}
+{"level":20,"time":1757189927791,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command order. Disabled!"}
+{"level":20,"time":1757189927792,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command oc. Disabled!"}
+{"level":20,"time":1757189927792,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command task. Disabled!"}
+{"level":20,"time":1757189927793,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command tasksetup. Disabled!"}
+{"level":20,"time":1757189927794,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command give. Disabled!"}
+{"level":20,"time":1757189927795,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command reload. Disabled!"}
+{"level":20,"time":1757189927804,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command donator. Disabled!"}
+{"level":20,"time":1757189927805,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command guidelines. Disabled!"}
+{"level":20,"time":1757189927807,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command protocols. Disabled!"}
+{"level":20,"time":1757189927808,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command rules. Disabled!"}
+{"level":20,"time":1757189927809,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command serverinfo. Disabled!"}
+{"level":20,"time":1757189927809,"pid":21048,"hostname":"Durangos_PC","msg":"Skipping command tags. Disabled!"}
+{"level":30,"time":1757189927811,"pid":21048,"hostname":"Durangos_PC","msg":"Loaded 57 commands"}
+{"level":30,"time":1757189927811,"pid":21048,"hostname":"Durangos_PC","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1757189927811,"pid":21048,"hostname":"Durangos_PC","msg":"Loading contexts..."}
+{"level":30,"time":1757189927812,"pid":21048,"hostname":"Durangos_PC","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1757189927812,"pid":21048,"hostname":"Durangos_PC","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1757189927812,"pid":21048,"hostname":"Durangos_PC","msg":"Loading events..."}
+{"level":30,"time":1757189927834,"pid":21048,"hostname":"Durangos_PC","msg":"Loaded 17 events. Success (17) Failed (0)"}
+{"level":30,"time":1757189927847,"pid":21048,"hostname":"Durangos_PC","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1757189931160,"pid":21048,"hostname":"Durangos_PC","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1757189932484,"pid":21048,"hostname":"Durangos_PC","msg":"Logged in as BEE Manager 🐝TEST#9627! (1268489856137433148)"}
+{"level":30,"time":1757189932484,"pid":21048,"hostname":"Durangos_PC","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1757189933481,"pid":21048,"hostname":"Durangos_PC","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1757189933770,"pid":21048,"hostname":"Durangos_PC","msg":"Successfully registered interactions"}
+{"level":50,"time":1757189934316,"pid":21048,"hostname":"Durangos_PC","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'channels')","stack":"TypeError: Cannot read properties of undefined (reading 'channels')\n    at module.exports (C:\\vscode\\BEE manager\\src\\events\\ready.js:57:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of undefined (reading 'channels')"}

@@ -1,0 +1,100 @@
+partners:
+  - serverName: 𝐁𝐚𝐬𝐢𝐜𝐚𝐥𝐥𝐲 𝐁𝐥𝐨𝐱𝐛𝐮𝐫𝐠 🎀
+    representative: '839423370469572628'
+    ourRep: '1106356654628409354'
+    partneredAt: 1753572566
+    link: https://discord.gg/WmTym9wpXn
+    follow: bb
+    serverId: '1248281468770193469'
+    channelId: '1288098493210038354'
+  - serverName: BloxBite Delights™ 🍭
+    representative: '1113844393573613568'
+    ourRep: '1106356654628409354'
+    partneredAt: 1753561746
+    link: https://discord.gg/bloxbite
+    follow: bb
+    serverId: '1165166727961788509'
+    channelId: '1207289175460552755'
+  - serverName: Bloxburg Builders HQ
+    representative: '980604641161150524'
+    ourRep: '1106356654628409354'
+    partneredAt: 1753561951
+    link: https://discord.gg/jagQvn45g3
+    follow: bb
+    serverId: '1217637473438662797'
+    channelId: '1217770777974407198'
+  - serverName: 𝓑𝓵𝓸𝔁𝓫𝓾𝓻𝓰 𝓓𝓲𝓼𝓷𝓮𝔂 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗘 ™
+    representative: '1125870116979085362'
+    ourRep: '1106356654628409354'
+    partneredAt: 1753562146
+    link: https://discord.gg/mmPpv32YEf
+    follow: 'no'
+    serverId: '1032907468457656410'
+    channelId: '0'
+  - serverName: 𝐂𝐡𝐞𝐫𝐫𝐲 𝐁𝐥𝐨𝐬𝐬𝐨𝐦 𝐂𝐚𝐭𝐞𝐫𝐢𝐧𝐠
+    representative: '615653904398417930'
+    ourRep: '1106356654628409354'
+    partneredAt: 1753563397
+    link: https://discord.gg/KTGg2k5BFm
+    follow: bb
+    serverId: '1210157816879259648'
+    channelId: '1390644654571261953'
+  - serverName: CT Hotels & Resorts
+    representative: '734366980420665384'
+    ourRep: '1106356654628409354'
+    partneredAt: 1753562858
+    link: https://discord.gg/wtYsGtabWF
+    follow: rr
+    serverId: '806467604112867328'
+    channelId: '809701824092831764'
+  - serverName: Denford Highschool
+    representative: '803229584573202503'
+    ourRep: '1106356654628409354'
+    partneredAt: 1753569238
+    link: https://discord.gg/rmJGCCAJCZ
+    follow: rr
+    serverId: '796749434738049024'
+    channelId: '1374103913728311296'
+  - serverName: Dylan's Dreamland!
+    representative: '728025166214594581'
+    ourRep: '271078843786330114'
+    partneredAt: 1753590758
+    link: https://discord.gg/5bgVb9sR
+    follow: bb
+    serverId: '769264135614758912'
+    channelId: '1025509014643146833'
+  - serverName: Fog's Little City!
+    representative: '764838104149262356'
+    ourRep: '271078843786330114'
+    partneredAt: 1753562465
+    link: https://discord.gg/P6bKMFuSy8
+    follow: cc
+    serverId: '1058068373323403284'
+    channelId: '1198007793995759739'
+  - serverName: MISTI CAFÈ
+    representative: '1071621980912107590'
+    ourRep: '1106356654628409354'
+    partneredAt: 1753563587
+    link: https://discord.gg/BXdvSttW4Y
+    follow: bb
+    serverId: '1331884243684425839'
+    channelId: '1335574217164587053'
+  - serverName: Pearl Valley High School
+    representative: '798777078191095820'
+    ourRep: '1106356654628409354'
+    partneredAt: 1753563885
+    link: https://discord.gg/aTcWxeayXJ
+    follow: rr
+    serverId: '1371234904951623690'
+    channelId: '1387994350566375535'
+terminated:
+  - serverName: PoopTroop’s Cooking
+    representative: '717681394670764088'
+    ourRep: '271078843786330114'
+    partneredAt: 1753564692
+    link: https://discord.gg/pooptroop
+    follow: bb
+    serverId: '1218522851699855360'
+    channelId: '1228972026614517781'
+    terminatedAt: 1753746657
+    terminationReason: Hi
