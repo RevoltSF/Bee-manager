@@ -246,6 +246,9 @@ module.exports = {
     "bloxburgHigh": {
       "Emoji": "🏫",
     },
+    "taxi": {
+      "Emoji": "🚕",
+    },
     "academic": {
       "Emoji": "🎓",
     },

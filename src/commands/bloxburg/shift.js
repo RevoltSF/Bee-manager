@@ -146,14 +146,20 @@ const jobOptions = [
   { name: `${SHIFTS.fishing.Emoji} Fishing Hut`, value: "fishing" },
   { name: `${SHIFTS.mechanic.Emoji} Mike's Motors`, value: "mechanic" },
   { name: `${SHIFTS.bloxburgMines.Emoji} Bloxburg Mines`, value: "bloxburgMines" },
-  { name: `${SHIFTS.pizzaBaking.Emoji} Pizza Planet Kitchen`, value: "pizzaBaking" },
-  { name: `${SHIFTS.pizzaDelivery.Emoji} Pizza Planet Delivery`, value: "pizzaDelivery" },
+  { name: `${SHIFTS.pizzaPlanet.Emoji} Pizza Planet`, value: "pizzaPlanet" },
+  //{ name: `${SHIFTS.pizzaBaking.Emoji} Pizza Planet Kitchen`, value: "pizzaBaking" },
+  //{ name: `${SHIFTS.pizzaDelivery.Emoji} Pizza Planet Delivery`, value: "pizzaDelivery" },
   { name: `${SHIFTS.stylezSalon.Emoji} Stylez Salon`, value: "stylezSalon" },
   { name: `${SHIFTS.woodCutter.Emoji} Lovely Lumber`, value: "woodCutter" },
   { name: `${SHIFTS.bloxburgHigh.Emoji} Bloxburg High`, value: "bloxburgHigh" },
-  { name: `${SHIFTS.academic.Emoji} Academic Leveling`, value: "academic" },
+  { name: `${SHIFTS.taxi.Emoji} Bloxburg Taxi`, value: "taxi" },
   { name: `${SHIFTS.skills.Emoji} Skills Leveling`, value: "skills" },
-  { name: `${SHIFTS.spooky.Emoji} Halloween Event`, value: "halloween" },
+  { name: `${SHIFTS.cook.Emoji} Stocking Food`, value: "cook" },
+  //{ name: `${SHIFTS.anyJob.Emoji} Any Location`, value: "anyJob"},
+  //{ name: `${SHIFTS.ticket.Emoji} Trick or Ticket`, value: "ticket" },
+  //{ name: `${SHIFTS.ghost.Emoji} Ghost Hunt`, value: "ghost" },
+  { name: `${SHIFTS.christmas.Emoji} Christmas Minigames`, value: "christmas" },
+  
 ];
 const timeOptions = [
   { name: "5 minutes", value: "5" }, //Change in final code
@@ -393,6 +399,8 @@ module.exports = {
           niceJobName = "🔧 Mike's Motors";
       } else if (job == "bloxburgMines") {
           niceJobName = "⛏️ Bloxburg Mines";
+      } else if (job == "pizzaPlanet"){
+          niceJobName = "🪐 Pizza Planet";
       } else if (job == "pizzaBaking") {
           niceJobName = "🍕 Pizza Planet Kitchen";
       } else if (job == "pizzaDelivery") {
@@ -405,12 +413,20 @@ module.exports = {
           niceJobName = "🪓 Lovely Lumber";
       } else if (job == "skills"){
           niceJobName = "⏫ Skills Leveling";
+      } else if (job == "cook"){
+          niceJobName = "🧑‍🍳 Stocking Food";
       } else if (job == "bloxburgHigh"){
           niceJobName = "🏫 Bloxburg High";
-      } else if (job == "academic"){
-          niceJobName = "🎓 Academic Leveling";
-      } else if (job == "spooky"){
-          niceJobName = "🎃 Halloween Event";
+      } else if (job == "taxi") {
+          niceJobName = "🚕 Bloxburg Taxi";
+      } else if (job == "anyJob") {
+          niceJobName = "💰 Any Location";
+      } else if (job == "ticket"){
+          niceJobName = "🎟️ Trick or Ticket";
+      } else if (job == "ghost"){
+          niceJobName = "👻 Ghost Hunt";
+      } else if (job == "christmas"){
+          niceJobName = "🎄 Christmas Minigames";
       }
 
       const dominus = client.shiftdatabase.get("dominus-")
@@ -983,6 +999,9 @@ module.exports = {
             case "bloxburgMines":
                 niceJobName = "⛏️ Bloxburg Mines";
                 break;
+            case "pizzaPlanet":
+                niceJobName = "🪐 Pizza Planet";
+                break;
             case "pizzaBaking":
                 niceJobName = "🍕 Pizza Planet Kitchen";
                 break;
@@ -998,14 +1017,29 @@ module.exports = {
             case "woodCutter":
                 niceJobName = "🪓 Lovely Lumber";
                 break;
-            case "skills":
-                niceJobName = "⏫ Skills Leveling";
-                break;
             case "bloxburgHigh":
                 niceJobName = "🏫 Bloxburg High";
                 break;
-            case "halloween":
-                niceJobName = "🎃 Halloween Event";
+            case "taxi":
+                niceJobName = "🚕 Bloxburg Taxi";
+                break;
+            case "skills":
+                niceJobName = "⏫ Skills Leveling";
+                break;
+            case "cook":
+                niceJobName = "🧑‍🍳 Stocking Food";
+             	break;
+            case "anyJob":
+                niceJobName = "💰 Any Job";
+                break;
+            case "ticket":
+                niceJobName = "🎟️ Trick or Ticket";
+                break;
+            case "ghost":
+                niceJobName = "👻 Ghost Hunt";
+                break;
+            case "christmas":
+                niceJobName = "🎄 Christmas Minigames";
                 break;
             default:
                 niceJobName = "Unknown Job"; // Fallback
